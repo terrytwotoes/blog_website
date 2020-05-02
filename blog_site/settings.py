@@ -25,7 +25,7 @@ SECRET_KEY = '@)__-i=546)+wo56c993t4d%y*jun@)*isaxuz7sz(6-18^wr9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['raether.pythonanywhere.com']
 
 
 # Application definition
